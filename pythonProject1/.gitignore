@@ -1,0 +1,21 @@
+# קבצים של קומפילציה
+__pycache__/
+*.py[cod]
+*$py.class
+
+# תיקיות וירטואליות של pipenv / venv
+env/
+venv/
+ENV/
+.venv/
+
+# קבצים של IDEs (כמו PyCharm, VSCode)
+.idea/
+.vscode/
+
+# קבצי לוג או קבצים זמניים
+*.log
+*.tmp
+
+# קובצי הגדרות פרטיים
+.env
